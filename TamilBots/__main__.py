@@ -13,7 +13,7 @@ start_text = """
 
 \n\nBen 🎸Robbers Music Bot[🎶](https://telegra.ph/file/6cb884fe1cb943ec12df1.mp4)
 
-Bot Yapımcısı @armor_06 🤖
+Bot Yapımcısı @armor_06 , @anteplibebekk 🤖
 
 İstediğin Şarkının Adını Gönder... 😍🥰🤗
 
